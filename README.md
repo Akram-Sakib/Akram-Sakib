@@ -2,7 +2,7 @@
 #### Web Application Developer
 ![Web Application Developer](https://i.ibb.co/8gYqdgt/Sakib-3.jpg)
 
-I’m passionate about web design and development. I work a minimum of 13-14 hours every day, I love to do this and I really enjoy this, it’s my life- everything. I learn new things every day.
+I was born in Cumilla district, Monohorganj Upazila. Now I am studying in Bangladesh’s top one polytechnic institute called Dhaka Polytechnic Institute about Computer Technology. I’m passionate about web design and development. I love to do this and I really enjoy this, it’s my hobby. I learn new things every day.
 
 Skills: LARAVEL / PHP / REACT / JS / HTML / CSS / BOOTSTRAP
 
