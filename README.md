@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Akram Hossain Sakib
 #### Web Application Developer
-![Web Application Developer](https://i.ibb.co/Y3h32Y5/Sakib-2.jpg)
+![Web Application Developer](https://i.ibb.co/VCy53S5/IMG-20210922-WA0011-2.jpg)
 
 I’m passionate about web design and development. I work a minimum of 13-14 hours every day, I love to do this and I really enjoy this, it’s my life- everything. I learn new things every day.
 
