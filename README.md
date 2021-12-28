@@ -4,7 +4,7 @@
 
 I was born in Cumilla district, Monohorganj Upazila. Now I am studying in Bangladesh’s top Polytechnic Institute called Dhaka Polytechnic Institute about Computer Technology. I’m passionate about web design and development. I love to do this and I really enjoy this, it’s my hobby. I learn new things every day.
 
-Skills: LARAVEL / PHP / REACT / JS / HTML / CSS / BOOTSTRAP
+Skills: LARAVEL / PHP / REACT / REDUX / NEXT JS / FIREBASE / JS / HTML / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
