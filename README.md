@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Akram Hossain Sakib
 #### Web Application Developer
-<img src='https://i.ibb.co/Ny12Ks6/IMG20220216172244.jpg' alt='github' height='330px' width="auto">
 
 I was born in Cumilla district, Monohorganj Upazila. Now I am studying in Bangladesh’s top Polytechnic Institute called Dhaka Polytechnic Institute about Computer Technology. I’m passionate about web design and development. I love to do this and I really enjoy this, it’s my hobby. I learn new things every day.
 
