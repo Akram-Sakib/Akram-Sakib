@@ -5,7 +5,7 @@ I was born in Cumilla district, Monohorganj Upazila. Now I am studying in Bangla
 
 Skills: SQL/ EXPRESS/ MONGODB/ REACT / REDUX / NEXT JS / FIREBASE / JAVASCRIPT / HTML / CSS
 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning JavaScript DSA
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: sayedakramsakib@gmaill.com 
 
