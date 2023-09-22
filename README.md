@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Akram Hossain Sakib                                                                                                         LeetCode: https://leetcode.com/Akram-Sakib/
+### Hi there 👋, I'm Akram Hossain Sakib              
 #### Web Application Developer
 ##### Bangladeshi
 
