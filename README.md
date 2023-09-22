@@ -2,7 +2,7 @@
 #### Web Application Developer
 ##### Bangladeshi
 
-Skills: SQL/ EXPRESS/ MONGODB/ REACT / REDUX / NEXT JS / FIREBASE / JAVASCRIPT / HTML / CSS
+Skills: PRISMA / POSTGRESQL/ EXPRESS/ MONGODB/ REACT / REDUX / NEXT JS / FIREBASE / JAVASCRIPT
 
 - 🌱 I’m currently learning JavaScript DSA
 - 💬 Ask me about Web Development
