@@ -13,6 +13,7 @@ Skills: PRISMA / POSTGRESQL/ EXPRESS/ MONGODB/ REACT / REDUX / NEXT JS / FIREBAS
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akram-Sakib/Akram-Sakib/output/github-contribution-grid-snake.svg" />
-  
+  ![Snake animation]
+  https://github.com/Akram-Sakib/Akram-Sakib/blob/output/github-contribution-grid-snake.svg
   <br/><br/><br/>
 </div>
