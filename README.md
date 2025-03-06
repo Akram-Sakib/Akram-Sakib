@@ -6,7 +6,7 @@ Skills: PRISMA / POSTGRESQL/ EXPRESS/ MONGODB/ REACT / REDUX / NEXT JS / FIREBAS
 
 - 🌱 I’m currently learning JavaScript DSA
 - 💬 Ask me about Web Development
-- 🥅 2024 Goals: Learn C and C++ Programming, DSA, SDLC, Competitive Programming, LeetCode Journey.
+- 🥅 2025 Goals: Learn LLM, DSA, SDLC, Competitive Programming, LeetCode Journey.
 - 📫 How to reach me: sayedakramsakib@gmaill.com 
 
 <div align="left">
